@@ -1,0 +1,7 @@
+{
+    "require": {
+        "duncan3dc/blade": "^4.3",
+        "philipp15b/php-i18n": "^4.0",
+        "symfony/dotenv": "^4.1"
+    }
+}
