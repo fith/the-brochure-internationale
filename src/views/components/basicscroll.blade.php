@@ -1,0 +1,1 @@
+<script src="https://cdn.jsdelivr.net/npm/basicscroll@2.1.1/dist/basicScroll.min.js"></script>
